@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bahr Media
 
-<!--
-**bahrmedia/bahrmedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bahr Media entwickelt und betreibt digitale Plattformen und Online-Angebote.
 
-Here are some ideas to get you started:
+## Projekte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### KUQUM – Kreuz und quer übers MEER
+
+[KUQUM](https://kuqum.de/) ist ein Informations- und Rechercheportal rund um
+Hochseekreuzfahrten, Schiffe, Reedereien und Häfen.
+
+🌐 [kuqum.de](https://kuqum.de/)
+
+---
+
+[Bahr Media](https://bahrmedia.de/)
